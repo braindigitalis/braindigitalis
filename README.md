@@ -1,6 +1,6 @@
 ### Making games for the fun of it since 1993
 
-![alt text](bb_header.png)
+![Brainbox.cc Header](bb_header.png)
 
 - Author of [WinBot](https://www.winbot.co.uk), the Windows IRC bot all the way back in 1999
 - The original creator of [InspIRCd](https://www.inspircd.org), a really popular IRC daemon
