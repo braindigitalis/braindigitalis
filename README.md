@@ -1,4 +1,4 @@
-### Making games for the fun of it since 1993
+# Making games for the fun of it since 1993
 
 ![Brainbox.cc Header](bb_header.png)
 
@@ -13,5 +13,6 @@
 
 I've been programming in some form since 1993, where i started out with [BBC BASIC](https://en.wikipedia.org/wiki/BBC_BASIC) on the [BBC Master 128k](https://en.wikipedia.org/wiki/BBC_Master) Microcomputer. From here i learned [6502 assembly](https://www.abebooks.co.uk/search/sortby/3/an/Lance+Leventhal+/tn/+6502+Assembly+Language) and then **Pascal** and **Delphi**, **Perl**, **PHP**, **C**, and **C++**. I know a **lot** of programming languages and a lot of databases, such as **MySQL** and **MSSQL**.
 
-Here is a picture of my development setup:
+## Here is a picture of my development setup
 
+![Development Environment](devbox.jpg)
