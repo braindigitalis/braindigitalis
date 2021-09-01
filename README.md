@@ -3,6 +3,7 @@
 ![Brainbox.cc Header](bb_header.png)
 
 - Developer of [TriviaBot](https://triviabot.co.uk), a Trivia/Quiz bot for Discord used on over 106,000 servers with over 11 million users
+- Developer of the [D++ discord library](https://github.com/brainboxdotcc/DPP), a very lightweight C++17 library.
 - Author of [WinBot](https://www.winbot.co.uk), the Windows IRC bot all the way back in 1999
 - The original creator of [InspIRCd](https://www.inspircd.org), a really popular IRC daemon
 - Administrator of the [ChatSpike IRC Network](https://www.chatspike.net)
