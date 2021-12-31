@@ -16,4 +16,4 @@ I've been programming in some form since 1993, where i started out with [BBC BAS
 
 ## Here is a picture of my development setup
 
-![Development Environment](devbox.jpg)
+![Development Environment](IMG_20211230_190258.jpg)
