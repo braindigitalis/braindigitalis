@@ -2,7 +2,7 @@
 
 ![Brainbox.cc Header](bb_header.png)
 
-- Developer of [TriviaBot](https://triviabot.co.uk), a Trivia/Quiz bot for Discord used on over 116,000 servers with over 13 million users
+- Developer of [TriviaBot](https://triviabot.co.uk), a Trivia/Quiz bot for Discord used on over 150,000 servers with over 36 million users
 - Developer of the [D++ discord library](https://github.com/brainboxdotcc/DPP), a very lightweight C++17 Discord library.
 - Developer of [Mr Boom's Firework Factory](https://store.steampowered.com/app/1013670/Mr_Booms_Firework_Factory/), an extremely difficult puzzle game
 - Developer of [Sporks](https://sporks.gg), the learning, scriptable Discord bot
